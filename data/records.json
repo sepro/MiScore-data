@@ -50,7 +50,20 @@
           "records": [
             {
               "score": "25092",
-              "date": "2022-08-04"
+              "date": "2022-08-04",
+              "screenshot": "./screenshots/gwent_rogue_mage/20220804_score_time.png"
+            }
+          ]
+        },
+        {
+          "name": "Best Rank",
+          "description": "Your best position on the leaderboard",
+          "type": "low_score",
+          "records": [
+            {
+              "score": "456",
+              "date": "2022-08-04",
+              "screenshot": "./screenshots/gwent_rogue_mage/20220804_rank.png"
             }
           ]
         },
@@ -61,7 +74,8 @@
           "records": [
             {
               "time": "00:24:04",
-              "date": "2022-07-08"
+              "date": "2022-07-08",
+              "screenshot": "./screenshots/gwent_rogue_mage/20220804_score_time.png"
             }
           ]
         }
