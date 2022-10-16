@@ -17,7 +17,8 @@
           "records": [
             {
               "difficulty": "Ultra-Violence",
-              "date": "2022-10-01"
+              "date": "2022-10-01",
+              "screenshot": "./screenshots/doom_2016/20221001_completed_ultra_violence.jpg"
             }]
         }
       ]
@@ -90,9 +91,10 @@
           "type": "high_score",
           "records": [
             {
-              "date": "2022-07-07",
+              "date": "2021-03-09",
               "score": "2511",
-              "description": "With Northern Realms"
+              "description": "With Northern Realms",
+              "screenshot": "./screenshots/gwent/20210309_fmmr.png"
             }
           ]
         }
