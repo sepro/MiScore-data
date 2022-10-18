@@ -113,7 +113,8 @@
           "type": "completed",
           "records": [
             {
-              "date": "2022-07-07"
+              "date": "2022-07-07",
+              "screenshot": "./screenshots/it_takes_two/20220707_completed.jpg"
             }
           ]
         }
