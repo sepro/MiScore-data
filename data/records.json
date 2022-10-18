@@ -16,6 +16,11 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "difficulty": "Nightmare",
+              "date": "2022-10-18",
+              "screenshot": "./screenshots/doom_2016/20221018_completed_nightmare.jpg"
+            },
+            {
               "difficulty": "Ultra-Violence",
               "date": "2022-10-01",
               "screenshot": "./screenshots/doom_2016/20221001_completed_ultra_violence.jpg"
