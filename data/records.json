@@ -29,6 +29,51 @@
       ]
     },
     {
+      "name": "Doom Eternal",
+      "difficulties": [
+        "I'm Too Young To Die",
+        "Hurt Me Plenty",
+        "Ultra-Violence",
+        "Nightmare",
+        "Ultra-Nightmare"
+      ],
+      "record_types": [
+        {
+          "name": "Completed Game",
+          "description": "Finish the base game at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "difficulty": "Hurt Me Plenty",
+              "date": "2020-05-02",
+              "screenshot": "./screenshots/doom_eternal/20200502_completed_hurt_me_plenty.jpg"
+            }]
+        },
+        {
+          "name": "Completed Ancient Gods part 1 (DLC)",
+          "description": "Finish the Ancient Gods part 1 at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "difficulty": "Hurt Me Plenty",
+              "date": "2021-03-26",
+              "screenshot": "./screenshots/doom_eternal/20210326_completed_dlc_1_hurt_me_plenty.jpg"
+            }]
+        },
+        {
+          "name": "Completed Ancient Gods part 2 (DLC)",
+          "description": "Finish the Ancient Gods part 2 at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "difficulty": "Hurt Me Plenty",
+              "date": "2021-03-27",
+              "screenshot": "./screenshots/doom_eternal/20210327_completed_dlc_2_hurt_me_plenty.jpg"
+            }]
+        }
+      ]
+    },
+    {
       "name": "Gwent: Rogue Mage",
       "difficulties": [
         "Novice",
