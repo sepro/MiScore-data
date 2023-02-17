@@ -164,6 +164,20 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Portal Reloaded",
+      "record_types": [
+        {
+          "name": "Completed Game",
+          "type": "completed",
+          "records": [
+            {
+              "date": "2023-02-17"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
