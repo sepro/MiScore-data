@@ -178,6 +178,22 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Wordle",
+      "record_types": [
+        {
+          "name": "Longest Streak",
+          "type": "high_score",
+          "records": [
+            {
+              "date": "2023-02-21",
+              "score": "26",
+              "screenshot": "./screenshots/wordle/wordle_20230221.png"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
