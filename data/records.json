@@ -185,7 +185,11 @@
         {
           "name": "Longest Streak",
           "type": "high_score",
-          "records": [
+          "records": [{
+              "date": "2023-04-07",
+              "score": "44",
+              "screenshot": "./screenshots/wordle/wordle_20230407.png"
+            },
             {
               "date": "2023-02-21",
               "score": "26",
