@@ -198,6 +198,28 @@
           ]
         }
       ]
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt",
+      "difficulties": [
+        "Just the Story",
+        "Story and Swords",
+        "Blood and Broken Bones!",
+        "Death March"
+      ],
+      "record_types": [
+        {
+          "name": "Completed Game",
+          "description": "Finish the game at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "difficulty": "Death March",
+              "date": "2023-06-30"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
