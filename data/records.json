@@ -219,6 +219,17 @@
               "screenshot": "./screenshots/witcher_3/witcher_3_death_march_20230630.jpg"
             }
           ]
+        },
+        {
+          "name": "Completed DLC: Blood & Wine",
+          "description": "Finish the DLC at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "difficulty": "Death March",
+              "date": "2023-07-15"
+            }
+          ]
         }
       ]
     }
