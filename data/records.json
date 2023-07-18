@@ -227,7 +227,8 @@
           "records": [
             {
               "difficulty": "Death March",
-              "date": "2023-07-15"
+              "date": "2023-07-15",
+              "screenshot": "./screenshots/witcher_3/witcher_3_dlc_2_death_march_20230715.jpg"
             }
           ]
         }
