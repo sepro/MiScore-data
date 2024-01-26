@@ -274,6 +274,42 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "difficulties": [
+        "Easy",
+        "Normal",
+        "Hard",
+        "Very Hard"
+      ],
+      "record_types": [
+        {
+          "name": "Completed Game",
+          "description": "Finish the game at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "difficulty": "Very Hard",
+              "date": "2024-01-26",
+              "screenshot": "./screenshots/cyberpunk2077/20240126_completed_very_hard.jpg",
+              "description": "Sandevistan Shotgun Build - lvl 60"
+            }
+          ]
+        },
+        {
+          "name": "Completed DLC: Phantom Liberty",
+          "description": "Finish the DLC at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "difficulty": "Very Hard",
+              "date": "2023-09-26",
+              "screenshot": "./screenshots/cyberpunk2077/20231209_completed_dlc_very_hard.jpg"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
