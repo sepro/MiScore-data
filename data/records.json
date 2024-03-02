@@ -310,6 +310,30 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "difficulties": [
+        "Story",
+        "Easy",
+        "Normal",
+        "Hard"
+      ],
+      "record_types": [
+        {
+          "name": "Completed Game",
+          "description": "Finish the main game at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "difficulty": "Hard",
+              "date": "2024-03-02",
+              "screenshot": "./screenshots/hogwarts_legacy/hogwarts_legacy_hard_20240302.jpg",
+              "description": "First playthrough, as Slytheryn, with a focus on ancient magic and unforgivable curses."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
