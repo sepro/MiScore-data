@@ -334,6 +334,29 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Half-Life: Alyx",
+      "difficulties": [
+        "Story",
+        "Easy",
+        "Normal",
+        "Hard"
+      ],
+      "record_types": [
+        {
+          "name": "Completed Game",
+          "description": "Finish the main game at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "difficulty": "Normal",
+              "date": "2024-03-03",
+              "description": "With NoVR Launcher to play the game without a VR headset."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
