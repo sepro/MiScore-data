@@ -357,6 +357,35 @@
           ]
         }
       ]
-    }
+    },
+    {
+    "name": "Virtual Boy Wario Land",
+    "record_types": [
+        {
+            "name": "Coins Collected",
+            "description": "Collect as many coins as possible and complete the game",
+            "type": "high_score",
+            "records": [
+                {
+                    "score": "4835",
+                    "date": "2024-03-15",
+                    "screenshot": "./screenshots/virtualboy_warioland/20240315_warioland.png"
+                }
+            ]
+        },
+        {
+            "name": "Fastest Finish",
+            "description": "Complete the game as fast as possible",
+            "type": "fastest_time",
+            "records": [
+                {
+                    "time": "03:24:05",
+                    "date": "2024-03-15",
+                    "screenshot": "./screenshots/virtualboy_warioland/20240315_warioland.png"
+                }
+            ]
+        }
+    ]
+}
   ]
 }
