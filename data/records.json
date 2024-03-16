@@ -369,7 +369,8 @@
                 {
                     "score": "4835",
                     "date": "2024-03-15",
-                    "screenshot": "./screenshots/virtualboy_warioland/20240315_warioland.png"
+                    "screenshot": "./screenshots/virtualboy_warioland/20240315_warioland.png",
+                    "description": "First time finishing this game."
                 }
             ]
         },
@@ -381,7 +382,8 @@
                 {
                     "time": "03:24:05",
                     "date": "2024-03-15",
-                    "screenshot": "./screenshots/virtualboy_warioland/20240315_warioland.png"
+                    "screenshot": "./screenshots/virtualboy_warioland/20240315_warioland.png",
+                    "description": "First time finishing this game."
                 }
             ]
         }
