@@ -388,6 +388,30 @@
             ]
         }
     ]
+},
+    {
+  "name": "Titanfall 2",
+  "difficulties": [
+    "Easy",
+    "Regular",
+    "Hard",
+    "Master"
+  ],
+  "record_types": [
+    {
+      "name": "Completed Game",
+      "description": "Finish the game at a specific difficulty",
+      "type": "completed_at_difficulty",
+      "records": [
+        {
+          "difficulty": "Hard",
+          "date": "2024-05-25",
+          "screenshot": "./screenshots/titanfall_2/titanfall_2_hard_20240525.jpg"
+        }
+      ]
+    }
+  ]
 }
+
   ]
 }
