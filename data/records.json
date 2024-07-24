@@ -43,6 +43,11 @@
           "description": "Finish the base game at a specific difficulty",
           "type": "completed_at_difficulty",
           "records": [{
+              "difficulty": "Nightmare",
+              "date": "2024-07-16",
+              "screenshot": "./screenshots/doom_eternal/20240716_completed_nightmare.jpg"
+            },
+            {
               "difficulty": "Ultra-Violence",
               "date": "2024-07-09",
               "screenshot": "./screenshots/doom_eternal/20240709_completed_ultra_violence.jpg"
@@ -54,7 +59,7 @@
             }]
         },
         {
-          "name": "Completed Ancient Gods part 1 (DLC)",
+          "  ": "Completed Ancient Gods part 1 (DLC)",
           "description": "Finish the Ancient Gods part 1 at a specific difficulty",
           "type": "completed_at_difficulty",
           "records": [
