@@ -59,7 +59,7 @@
             }]
         },
         {
-          "  ": "Completed Ancient Gods part 1 (DLC)",
+          "name": "Completed Ancient Gods part 1 (DLC)",
           "description": "Finish the Ancient Gods part 1 at a specific difficulty",
           "type": "completed_at_difficulty",
           "records": [
