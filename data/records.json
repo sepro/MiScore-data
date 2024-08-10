@@ -24,7 +24,8 @@
               "difficulty": "Ultra-Violence",
               "date": "2022-10-01",
               "screenshot": "./screenshots/doom_2016/20221001_completed_ultra_violence.jpg"
-            }]
+            }
+          ]
         }
       ]
     },
@@ -42,7 +43,8 @@
           "name": "Completed Game",
           "description": "Finish the base game at a specific difficulty",
           "type": "completed_at_difficulty",
-          "records": [{
+          "records": [
+            {
               "difficulty": "Nightmare",
               "date": "2024-07-16",
               "screenshot": "./screenshots/doom_eternal/20240716_completed_nightmare.jpg"
@@ -56,7 +58,8 @@
               "difficulty": "Hurt Me Plenty",
               "date": "2020-05-02",
               "screenshot": "./screenshots/doom_eternal/20200502_completed_hurt_me_plenty.jpg"
-            }]
+            }
+          ]
         },
         {
           "name": "Completed Ancient Gods part 1 (DLC)",
@@ -67,7 +70,8 @@
               "difficulty": "Hurt Me Plenty",
               "date": "2021-03-26",
               "screenshot": "./screenshots/doom_eternal/20210326_completed_dlc_1_hurt_me_plenty.jpg"
-            }]
+            }
+          ]
         },
         {
           "name": "Completed Ancient Gods part 2 (DLC)",
@@ -78,7 +82,8 @@
               "difficulty": "Hurt Me Plenty",
               "date": "2021-03-27",
               "screenshot": "./screenshots/doom_eternal/20210327_completed_dlc_2_hurt_me_plenty.jpg"
-            }]
+            }
+          ]
         }
       ]
     },
@@ -222,7 +227,8 @@
         {
           "name": "Longest Streak",
           "type": "high_score",
-          "records": [{
+          "records": [
+            {
               "date": "2023-04-07",
               "score": "44",
               "screenshot": "./screenshots/wordle/wordle_20230407.png"
@@ -368,82 +374,80 @@
       ]
     },
     {
-    "name": "Virtual Boy Wario Land",
-    "record_types": [
+      "name": "Virtual Boy Wario Land",
+      "record_types": [
         {
-            "name": "Coins Collected",
-            "description": "Collect as many coins as possible and complete the game",
-            "type": "high_score",
-            "records": [
-                {
-                    "score": "4835",
-                    "date": "2024-03-15",
-                    "screenshot": "./screenshots/virtualboy_warioland/20240315_warioland.png",
-                    "description": "First time finishing this game."
-                }
-            ]
+          "name": "Coins Collected",
+          "description": "Collect as many coins as possible and complete the game",
+          "type": "high_score",
+          "records": [
+            {
+              "score": "4835",
+              "date": "2024-03-15",
+              "screenshot": "./screenshots/virtualboy_warioland/20240315_warioland.png",
+              "description": "First time finishing this game."
+            }
+          ]
         },
         {
-            "name": "Fastest Finish",
-            "description": "Complete the game as fast as possible",
-            "type": "fastest_time",
-            "records": [
-                {
-                    "time": "03:24:05",
-                    "date": "2024-03-15",
-                    "screenshot": "./screenshots/virtualboy_warioland/20240315_warioland.png",
-                    "description": "First time finishing this game."
-                }
-            ]
+          "name": "Fastest Finish",
+          "description": "Complete the game as fast as possible",
+          "type": "fastest_time",
+          "records": [
+            {
+              "time": "03:24:05",
+              "date": "2024-03-15",
+              "screenshot": "./screenshots/virtualboy_warioland/20240315_warioland.png",
+              "description": "First time finishing this game."
+            }
+          ]
         }
-    ]
-},
+      ]
+    },
     {
-  "name": "Titanfall 2",
-  "difficulties": [
-    "Easy",
-    "Regular",
-    "Hard",
-    "Master"
-  ],
-  "record_types": [
-    {
-      "name": "Completed Game",
-      "description": "Finish the game at a specific difficulty",
-      "type": "completed_at_difficulty",
-      "records": [
+      "name": "Titanfall 2",
+      "difficulties": [
+        "Easy",
+        "Regular",
+        "Hard",
+        "Master"
+      ],
+      "record_types": [
         {
-          "difficulty": "Hard",
-          "date": "2024-05-25",
-          "screenshot": "./screenshots/titanfall_2/titanfall_2_hard_20240525.jpg"
+          "name": "Completed Game",
+          "description": "Finish the game at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "difficulty": "Hard",
+              "date": "2024-05-25",
+              "screenshot": "./screenshots/titanfall_2/titanfall_2_hard_20240525.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zelda: Ocarina of Time",
+      "difficulties": [
+        "Normal",
+        "Master Quest"
+      ],
+      "record_types": [
+        {
+          "name": "Completed Game",
+          "description": "Finish the game",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "difficulty": "Normal",
+              "date": "2024-08-04",
+              "screenshot": "./screenshots/zelda_ocarina_of_time/zoot_completed_20240804.jpg",
+              "description": "First time completing a Zelda game (apart from those for the CDi)"
+            }
+          ]
         }
       ]
     }
-  ]
-},
-    {
-  "name": "Zelda: Ocarina of Time",
-  "difficulties": [
-    "Normal",
-    "Master Quest"
-  ],
-  "record_types": [
-    {
-      "name": "Completed Game",
-      "description": "Finish the game",
-      "type": "completed_at_difficulty",
-      "records": [
-        {
-          "difficulty": "Normal",
-          "date": "2024-08-04",
-          "screenshot": "./screenshots/zelda_ocarina_of_time/zoot_completed_20240804.jpg",
-          "description": "First time completing a Zelda game (apart from those for the CDi)"
-        }
-      ]
-    }
-  ]
-}
-
-
   ]
 }
