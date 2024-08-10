@@ -420,7 +420,30 @@
       ]
     }
   ]
+},
+    {
+  "name": "Zelda: Ocarina of Time",
+  "difficulties": [
+    "Normal",
+    "Master Quest"
+  ],
+  "record_types": [
+    {
+      "name": "Completed Game",
+      "description": "Finish the game",
+      "type": "completed_at_difficulty",
+      "records": [
+        {
+          "difficulty": "Normal",
+          "date": "2024-08-04",
+          "screenshot": "./screenshots/zelda_ocarina_of_time/zoot_completed_20240804.jpg",
+          "description": "First time completing a Zelda game (apart from those for the CDi)"
+        }
+      ]
+    }
+  ]
 }
+
 
   ]
 }
