@@ -448,6 +448,23 @@
           ]
         }
       ]
+    },
+    {
+      "name": "The Talos Principle 2",
+      "record_types": [
+        {
+          "name": "Completed Game with 100%",
+          "description": "Finish the game solving all puzzles and collecting all stars",
+          "type": "completed",
+          "records": [
+            {
+              "date": "2024-09-30",
+              "screenshot": "./screenshots/talos_principle_2/talos_principle_2_100_percent_20240930.jpg",
+              "description": "Finished the whole game, though permitting myself to use Google once (to find the last star)"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
