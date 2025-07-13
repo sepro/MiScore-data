@@ -528,6 +528,29 @@
                ]
             }
          ]
+      },
+      {
+         "name": "Metro: Awakening",
+         "difficulties": [
+            "Easy",
+            "Normal",
+            "Hard"
+         ],
+         "record_types": [
+            {
+               "name": "Completed Game",
+               "description": "Finish the game at a specific difficulty",
+               "type": "completed_at_difficulty",
+               "records": [
+                  {
+                     "difficulty": "Normal",
+                     "date": "2025-04-01",
+                     "screenshot": "./screenshots/metro_awakening/20250401_completed_normal.jpg",
+                     "description": "First play-through of a Metro game"
+                  }
+               ]
+            }
+         ]
       }
    ]
 }
