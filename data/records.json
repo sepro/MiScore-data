@@ -468,7 +468,43 @@
                      "description":"Finished the whole game, though permitting myself to use Google once (to find the last star)"
                   }
                ]
-            }
+            },
+            {
+               "name": "Completed DLC: Orpheus Ascending",
+               "description": "Finish the Orpheus Ascending DLC with 100% completion",
+               "type": "completed",
+               "records": [
+                 {
+                   "date": "2025-07-13",
+                   "description": "100% completion of Orpheus Ascending",
+                   "screenshot": "./screenshots/talos_principle_2/orpheus_ascending_100_percent_20250713.jpg"
+                 }
+               ]
+             },
+             {
+               "name": "Completed DLC: Into the Abyss",
+               "description": "Finish the Into the Abyss DLC with 100% completion",
+               "type": "completed",
+               "records": [
+                 {
+                   "date": "2025-07-11",
+                   "description": "100% completion of Into the Abyss",
+                   "screenshot": "./screenshots/talos_principle_2/into_the_abyss_100_percent_20250711.jpg"
+                 }
+               ]
+             },
+             {
+               "name": "Completed DLC: Isle of the Blessed",
+               "description": "Finish the Isle of the Blessed DLC with 100% completion",
+               "type": "completed",
+               "records": [
+                 {
+                   "date": "2025-07-12",
+                   "description": "100% completion of Isle of the Blessed",
+                   "screenshot": "./screenshots/talos_principle_2/isle_of_the_blessed_100_percent_20250712.jpg"
+                 }
+               ]
+             }
          ]
       },
       {
