@@ -564,7 +564,7 @@
                   {
                      "date": "2025-09-25",
                      "description": "Reached Level 60 with my Dwarf Hunter \"Blunderbus\" (on my self-hosted server)",
-                     "screenshot": "screenshots\\world_of_warcraft\\WoWScrnShot_092525_220552.jpg",
+                     "screenshot": "./screenshots/world_of_warcraft/WoWScrnShot_092525_220552.jpg",
                      "score": 60.0
                   }
                ]
