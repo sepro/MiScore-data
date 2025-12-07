@@ -9,7 +9,7 @@ If you wish to check locally, create a virtual environment and install all packa
 then run the command below.
 
 ```commandline
- python -m miscore .\data\records.json
+ python -m miscore validate .\data\records.json
 ```
 
 The MiScore package now also has features to add games using a text based interface. For more details check out [MiScore on GitHub](https://github.com/sepro/MiScore).
