@@ -1,580 +1,575 @@
 {
-  "games": [
-    {
-      "name": "Doom (2016)",
-      "difficulties": [
-        "I'm Too Young To Die",
-        "Hurt Me Plenty",
-        "Ultra-Violence",
-        "Nightmare",
-        "Ultra-Nightmare"
-      ],
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": "Finish the game at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
+   "games":[
+      {
+         "name":"Doom (2016)",
+         "difficulties":[
+            "I'm Too Young To Die",
+            "Hurt Me Plenty",
+            "Ultra-Violence",
+            "Nightmare",
+            "Ultra-Nightmare"
+         ],
+         "record_types":[
             {
-              "date": "2022-10-18",
-              "description": null,
-              "screenshot": "screenshots\\doom_2016\\20221018_completed_nightmare.jpg",
-              "difficulty": "Nightmare"
+               "name":"Completed Game",
+               "description":"Finish the game at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Nightmare",
+                     "date":"2022-10-18",
+                     "screenshot":"./screenshots/doom_2016/20221018_completed_nightmare.jpg"
+                  },
+                  {
+                     "difficulty":"Ultra-Violence",
+                     "date":"2022-10-01",
+                     "screenshot":"./screenshots/doom_2016/20221001_completed_ultra_violence.jpg"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Doom Eternal",
+         "difficulties":[
+            "I'm Too Young To Die",
+            "Hurt Me Plenty",
+            "Ultra-Violence",
+            "Nightmare",
+            "Ultra-Nightmare"
+         ],
+         "record_types":[
+            {
+               "name":"Completed Game",
+               "description":"Finish the base game at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Nightmare",
+                     "date":"2024-07-16",
+                     "screenshot":"./screenshots/doom_eternal/20240716_completed_nightmare.jpg"
+                  },
+                  {
+                     "difficulty":"Ultra-Violence",
+                     "date":"2024-07-09",
+                     "screenshot":"./screenshots/doom_eternal/20240709_completed_ultra_violence.jpg"
+                  },
+                  {
+                     "difficulty":"Hurt Me Plenty",
+                     "date":"2020-05-02",
+                     "screenshot":"./screenshots/doom_eternal/20200502_completed_hurt_me_plenty.jpg"
+                  }
+               ]
             },
             {
-              "date": "2022-10-01",
-              "description": null,
-              "screenshot": "screenshots\\doom_2016\\20221001_completed_ultra_violence.jpg",
-              "difficulty": "Ultra-Violence"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Doom Eternal",
-      "difficulties": [
-        "I'm Too Young To Die",
-        "Hurt Me Plenty",
-        "Ultra-Violence",
-        "Nightmare",
-        "Ultra-Nightmare"
-      ],
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": "Finish the base game at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
-            {
-              "date": "2024-07-16",
-              "description": null,
-              "screenshot": "screenshots\\doom_eternal\\20240716_completed_nightmare.jpg",
-              "difficulty": "Nightmare"
+               "name":"Completed Ancient Gods part 1 (DLC)",
+               "description":"Finish the Ancient Gods part 1 at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Hurt Me Plenty",
+                     "date":"2021-03-26",
+                     "screenshot":"./screenshots/doom_eternal/20210326_completed_dlc_1_hurt_me_plenty.jpg"
+                  }
+               ]
             },
             {
-              "date": "2024-07-09",
-              "description": null,
-              "screenshot": "screenshots\\doom_eternal\\20240709_completed_ultra_violence.jpg",
-              "difficulty": "Ultra-Violence"
+               "name":"Completed Ancient Gods part 2 (DLC)",
+               "description":"Finish the Ancient Gods part 2 at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Hurt Me Plenty",
+                     "date":"2021-03-27",
+                     "screenshot":"./screenshots/doom_eternal/20210327_completed_dlc_2_hurt_me_plenty.jpg"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Gwent: Rogue Mage",
+         "difficulties":[
+            "Novice",
+            "Apprentice",
+            "Adapt",
+            "Master",
+            "Grandmaster"
+         ],
+         "record_types":[
+            {
+               "name":"Completed Run",
+               "description":"Finish a run at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Grandmaster",
+                     "date":"2022-08-04"
+                  }
+               ]
             },
             {
-              "date": "2020-05-02",
-              "description": null,
-              "screenshot": "screenshots\\doom_eternal\\20200502_completed_hurt_me_plenty.jpg",
-              "difficulty": "Hurt Me Plenty"
-            }
-          ]
-        },
-        {
-          "name": "Completed Ancient Gods part 1 (DLC)",
-          "description": "Finish the Ancient Gods part 1 at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
-            {
-              "date": "2021-03-26",
-              "description": null,
-              "screenshot": "screenshots\\doom_eternal\\20210326_completed_dlc_1_hurt_me_plenty.jpg",
-              "difficulty": "Hurt Me Plenty"
-            }
-          ]
-        },
-        {
-          "name": "Completed Ancient Gods part 2 (DLC)",
-          "description": "Finish the Ancient Gods part 2 at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
-            {
-              "date": "2021-03-27",
-              "description": null,
-              "screenshot": "screenshots\\doom_eternal\\20210327_completed_dlc_2_hurt_me_plenty.jpg",
-              "difficulty": "Hurt Me Plenty"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Gwent: Rogue Mage",
-      "difficulties": [
-        "Novice",
-        "Apprentice",
-        "Adapt",
-        "Master",
-        "Grandmaster"
-      ],
-      "record_types": [
-        {
-          "name": "Completed Run",
-          "description": "Finish a run at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
-            {
-              "date": "2022-08-04",
-              "description": null,
-              "screenshot": null,
-              "difficulty": "Grandmaster"
-            }
-          ]
-        },
-        {
-          "name": "Highest Score",
-          "description": "Try to get a score as high as possible at the end of a run",
-          "type": "high_score",
-          "records": [
-            {
-              "date": "2022-08-04",
-              "description": null,
-              "screenshot": "screenshots\\gwent_rogue_mage\\20220804_score_time.png",
-              "score": 25092.0
-            }
-          ]
-        },
-        {
-          "name": "Best Rank",
-          "description": "Your best position on the leaderboard",
-          "type": "low_score",
-          "records": [
-            {
-              "date": "2022-08-04",
-              "description": null,
-              "screenshot": "screenshots\\gwent_rogue_mage\\20220804_rank.png",
-              "score": 456.0
-            }
-          ]
-        },
-        {
-          "name": "Fastest Time",
-          "description": "Finish a run as fast as possible",
-          "type": "fastest_time",
-          "records": [
-            {
-              "date": "2022-07-08",
-              "description": null,
-              "screenshot": "screenshots\\gwent_rogue_mage\\20220804_score_time.png",
-              "time": "0:24:04"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Gwent",
-      "difficulties": null,
-      "record_types": [
-        {
-          "name": "Highest fMMR",
-          "description": "Highest faction MMR score achieved in a season",
-          "type": "high_score",
-          "records": [
-            {
-              "date": "2021-03-09",
-              "description": "With Northern Realms",
-              "screenshot": "screenshots\\gwent\\20210309_fmmr.png",
-              "score": 2511.0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "It takes two",
-      "difficulties": null,
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": null,
-          "type": "completed",
-          "records": [
-            {
-              "date": "2022-07-07",
-              "description": null,
-              "screenshot": "screenshots\\it_takes_two\\20220707_completed.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Portal (with RTX)",
-      "difficulties": null,
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": null,
-          "type": "completed",
-          "records": [
-            {
-              "date": "2023-08-07",
-              "description": null,
-              "screenshot": null
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Portal Prelude (with RTX)",
-      "difficulties": null,
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": null,
-          "type": "completed",
-          "records": [
-            {
-              "date": "2023-08-09",
-              "description": null,
-              "screenshot": null
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Portal Reloaded",
-      "difficulties": null,
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": null,
-          "type": "completed",
-          "records": [
-            {
-              "date": "2023-02-17",
-              "description": null,
-              "screenshot": null
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Wordle",
-      "difficulties": null,
-      "record_types": [
-        {
-          "name": "Longest Streak",
-          "description": null,
-          "type": "high_score",
-          "records": [
-            {
-              "date": "2023-04-07",
-              "description": null,
-              "screenshot": "screenshots\\wordle\\wordle_20230407.png",
-              "score": 44.0
+               "name":"Highest Score",
+               "description":"Try to get a score as high as possible at the end of a run",
+               "type":"high_score",
+               "records":[
+                  {
+                     "score":"25092",
+                     "date":"2022-08-04",
+                     "screenshot":"./screenshots/gwent_rogue_mage/20220804_score_time.png"
+                  }
+               ]
             },
             {
-              "date": "2023-02-21",
-              "description": null,
-              "screenshot": "screenshots\\wordle\\wordle_20230221.png",
-              "score": 26.0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "The Witcher 3: Wild Hunt",
-      "difficulties": [
-        "Just the Story",
-        "Story and Swords",
-        "Blood and Broken Bones!",
-        "Death March"
-      ],
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": "Finish the game at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
-            {
-              "date": "2023-06-30",
-              "description": "Rather thorough playthrough with every side quest discovered completed. Got the good ending.",
-              "screenshot": "screenshots\\witcher_3\\witcher_3_death_march_20230630.jpg",
-              "difficulty": "Death March"
-            }
-          ]
-        },
-        {
-          "name": "Completed DLC: Hearts of Stone",
-          "description": "Finish the DLC at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
-            {
-              "date": "2023-09-26",
-              "description": null,
-              "screenshot": "screenshots\\witcher_3\\witcher_3_dlc_1_death_march_20230926.jpg",
-              "difficulty": "Death March"
-            }
-          ]
-        },
-        {
-          "name": "Completed DLC: Blood & Wine",
-          "description": "Finish the DLC at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
-            {
-              "date": "2023-07-15",
-              "description": null,
-              "screenshot": "screenshots\\witcher_3\\witcher_3_dlc_2_death_march_20230715.jpg",
-              "difficulty": "Death March"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Cyberpunk 2077",
-      "difficulties": [
-        "Easy",
-        "Normal",
-        "Hard",
-        "Very Hard"
-      ],
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": "Finish the game at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
-            {
-              "date": "2024-01-26",
-              "description": "Sandevistan Shotgun Build - lvl 60",
-              "screenshot": "screenshots\\cyberpunk2077\\20240126_completed_very_hard.jpg",
-              "difficulty": "Very Hard"
-            }
-          ]
-        },
-        {
-          "name": "Completed DLC: Phantom Liberty",
-          "description": "Finish the DLC at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
-            {
-              "date": "2023-09-26",
-              "description": null,
-              "screenshot": "screenshots\\cyberpunk2077\\20231209_completed_dlc_very_hard.jpg",
-              "difficulty": "Very Hard"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Hogwarts Legacy",
-      "difficulties": [
-        "Story",
-        "Easy",
-        "Normal",
-        "Hard"
-      ],
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": "Finish the main game at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
-            {
-              "date": "2024-03-02",
-              "description": "First playthrough, as Slytheryn, with a focus on ancient magic and unforgivable curses.",
-              "screenshot": "screenshots\\hogwarts_legacy\\hogwarts_legacy_hard_20240302.jpg",
-              "difficulty": "Hard"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Half-Life: Alyx",
-      "difficulties": [
-        "Story",
-        "Easy",
-        "Normal",
-        "Hard"
-      ],
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": "Finish the main game at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
-            {
-              "date": "2024-03-03",
-              "description": "With NoVR Launcher to play the game without a VR headset.",
-              "screenshot": null,
-              "difficulty": "Normal"
+               "name":"Best Rank",
+               "description":"Your best position on the leaderboard",
+               "type":"low_score",
+               "records":[
+                  {
+                     "score":"456",
+                     "date":"2022-08-04",
+                     "screenshot":"./screenshots/gwent_rogue_mage/20220804_rank.png"
+                  }
+               ]
             },
             {
-              "date": "2025-02-02",
-              "description": "On Meta Quest 3S with USB Link, very impressive game!",
-              "screenshot": null,
-              "difficulty": "Hard"
+               "name":"Fastest Time",
+               "description":"Finish a run as fast as possible",
+               "type":"fastest_time",
+               "records":[
+                  {
+                     "time":"00:24:04",
+                     "date":"2022-07-08",
+                     "screenshot":"./screenshots/gwent_rogue_mage/20220804_score_time.png"
+                  }
+               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Virtual Boy Wario Land",
-      "difficulties": null,
-      "record_types": [
-        {
-          "name": "Coins Collected",
-          "description": "Collect as many coins as possible and complete the game",
-          "type": "high_score",
-          "records": [
+         ]
+      },
+      {
+         "name":"Gwent",
+         "record_types":[
             {
-              "date": "2024-03-15",
-              "description": "First time finishing this game.",
-              "screenshot": "screenshots\\virtualboy_warioland\\20240315_warioland.png",
-              "score": 4835.0
+               "name":"Highest fMMR",
+               "description":"Highest faction MMR score achieved in a season",
+               "type":"high_score",
+               "records":[
+                  {
+                     "date":"2021-03-09",
+                     "score":"2511",
+                     "description":"With Northern Realms",
+                     "screenshot":"./screenshots/gwent/20210309_fmmr.png"
+                  }
+               ]
             }
-          ]
-        },
-        {
-          "name": "Fastest Finish",
-          "description": "Complete the game as fast as possible",
-          "type": "fastest_time",
-          "records": [
+         ]
+      },
+      {
+         "name":"It takes two",
+         "record_types":[
             {
-              "date": "2024-03-15",
-              "description": "First time finishing this game.",
-              "screenshot": "screenshots\\virtualboy_warioland\\20240315_warioland.png",
-              "time": "3:24:05"
+               "name":"Completed Game",
+               "type":"completed",
+               "records":[
+                  {
+                     "date":"2022-07-07",
+                     "screenshot":"./screenshots/it_takes_two/20220707_completed.jpg"
+                  }
+               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Titanfall 2",
-      "difficulties": [
-        "Easy",
-        "Regular",
-        "Hard",
-        "Master"
-      ],
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": "Finish the game at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
+         ]
+      },
+      {
+         "name":"Portal (with RTX)",
+         "record_types":[
             {
-              "date": "2024-05-25",
-              "description": null,
-              "screenshot": "screenshots\\titanfall_2\\titanfall_2_hard_20240525.jpg",
-              "difficulty": "Hard"
+               "name":"Completed Game",
+               "type":"completed",
+               "records":[
+                  {
+                     "date":"2023-08-07"
+                  }
+               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Zelda: Ocarina of Time",
-      "difficulties": [
-        "Normal",
-        "Master Quest"
-      ],
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": "Finish the game",
-          "type": "completed_at_difficulty",
-          "records": [
+         ]
+      },
+      {
+         "name":"Portal Prelude (with RTX)",
+         "record_types":[
             {
-              "date": "2024-08-04",
-              "description": "First time completing a Zelda game (apart from those for the CDi)",
-              "screenshot": "screenshots\\zelda_ocarina_of_time\\zoot_completed_20240804.jpg",
-              "difficulty": "Normal"
+               "name":"Completed Game",
+               "type":"completed",
+               "records":[
+                  {
+                     "date":"2023-08-09"
+                  }
+               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "The Talos Principle 2",
-      "difficulties": null,
-      "record_types": [
-        {
-          "name": "Completed Game with 100%",
-          "description": "Finish the game solving all puzzles and collecting all stars",
-          "type": "completed",
-          "records": [
+         ]
+      },
+      {
+         "name":"Portal Reloaded",
+         "record_types":[
             {
-              "date": "2024-09-30",
-              "description": "Finished the whole game, though permitting myself to use Google once (to find the last star)",
-              "screenshot": "screenshots\\talos_principle_2\\talos_principle_2_100_percent_20240930.jpg"
+               "name":"Completed Game",
+               "type":"completed",
+               "records":[
+                  {
+                     "date":"2023-02-17"
+                  }
+               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Batman: Arkham Shadow",
-      "difficulties": [
-        "Easy",
-        "Normal",
-        "Hard"
-      ],
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": "Finish the game at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
+         ]
+      },
+      {
+         "name":"Wordle",
+         "record_types":[
             {
-              "date": "2025-01-23",
-              "description": null,
-              "screenshot": "screenshots\\batman_arkham_shadow\\batman_as_completed_20250123.jpg",
-              "difficulty": "Hard"
+               "name":"Longest Streak",
+               "type":"high_score",
+               "records":[
+                  {
+                     "date":"2023-04-07",
+                     "score":"44",
+                     "screenshot":"./screenshots/wordle/wordle_20230407.png"
+                  },
+                  {
+                     "date":"2023-02-21",
+                     "score":"26",
+                     "screenshot":"./screenshots/wordle/wordle_20230221.png"
+                  }
+               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Metro: Awakening",
-      "difficulties": [
-        "Easy",
-        "Normal",
-        "Hard"
-      ],
-      "record_types": [
-        {
-          "name": "Completed Game",
-          "description": "Finish the game at a specific difficulty",
-          "type": "completed_at_difficulty",
-          "records": [
+         ]
+      },
+      {
+         "name":"The Witcher 3: Wild Hunt",
+         "difficulties":[
+            "Just the Story",
+            "Story and Swords",
+            "Blood and Broken Bones!",
+            "Death March"
+         ],
+         "record_types":[
             {
-              "date": "2025-04-01",
-              "description": "First play-through of a Metro game",
-              "screenshot": "screenshots\\metro_awakening\\20250401_completed_normal.jpg",
-              "difficulty": "Normal"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "World of Warcraft",
-      "difficulties": null,
-      "record_types": [
-        {
-          "name": "Level Reached",
-          "description": "Show off your characters at different levels",
-          "type": "high_score",
-          "records": [
+               "name":"Completed Game",
+               "description":"Finish the game at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Death March",
+                     "date":"2023-06-30",
+                     "screenshot":"./screenshots/witcher_3/witcher_3_death_march_20230630.jpg",
+                     "description":"Rather thorough playthrough with every side quest discovered completed. Got the good ending."
+                  }
+               ]
+            },
             {
-              "date": "2025-09-25",
-              "description": "Reached Level 60 with my Dwarf Hunter \"Blunderbus\" (on my self-hosted server)",
-              "screenshot": "screenshots\\world_of_warcraft\\WoWScrnShot_092525_220552.jpg",
-              "score": 60.0
+               "name":"Completed DLC: Hearts of Stone",
+               "description":"Finish the DLC at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Death March",
+                     "date":"2023-09-26",
+                     "screenshot":"./screenshots/witcher_3/witcher_3_dlc_1_death_march_20230926.jpg"
+                  }
+               ]
+            },
+            {
+               "name":"Completed DLC: Blood & Wine",
+               "description":"Finish the DLC at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Death March",
+                     "date":"2023-07-15",
+                     "screenshot":"./screenshots/witcher_3/witcher_3_dlc_2_death_march_20230715.jpg"
+                  }
+               ]
             }
-          ]
-        }
-      ]
-    }
-  ]
+         ]
+      },
+      {
+         "name":"Cyberpunk 2077",
+         "difficulties":[
+            "Easy",
+            "Normal",
+            "Hard",
+            "Very Hard"
+         ],
+         "record_types":[
+            {
+               "name":"Completed Game",
+               "description":"Finish the game at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Very Hard",
+                     "date":"2024-01-26",
+                     "screenshot":"./screenshots/cyberpunk2077/20240126_completed_very_hard.jpg",
+                     "description":"Sandevistan Shotgun Build - lvl 60"
+                  }
+               ]
+            },
+            {
+               "name":"Completed DLC: Phantom Liberty",
+               "description":"Finish the DLC at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Very Hard",
+                     "date":"2023-09-26",
+                     "screenshot":"./screenshots/cyberpunk2077/20231209_completed_dlc_very_hard.jpg"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Hogwarts Legacy",
+         "difficulties":[
+            "Story",
+            "Easy",
+            "Normal",
+            "Hard"
+         ],
+         "record_types":[
+            {
+               "name":"Completed Game",
+               "description":"Finish the main game at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Hard",
+                     "date":"2024-03-02",
+                     "screenshot":"./screenshots/hogwarts_legacy/hogwarts_legacy_hard_20240302.jpg",
+                     "description":"First playthrough, as Slytheryn, with a focus on ancient magic and unforgivable curses."
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Half-Life: Alyx",
+         "difficulties":[
+            "Story",
+            "Easy",
+            "Normal",
+            "Hard"
+         ],
+         "record_types":[
+            {
+               "name":"Completed Game",
+               "description":"Finish the main game at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Normal",
+                     "date":"2024-03-03",
+                     "description":"With NoVR Launcher to play the game without a VR headset."
+                  },
+                  {
+                     "difficulty":"Hard",
+                     "date":"2025-02-02",
+                     "description":"On Meta Quest 3S with USB Link, very impressive game!"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Virtual Boy Wario Land",
+         "record_types":[
+            {
+               "name":"Coins Collected",
+               "description":"Collect as many coins as possible and complete the game",
+               "type":"high_score",
+               "records":[
+                  {
+                     "score":"4835",
+                     "date":"2024-03-15",
+                     "screenshot":"./screenshots/virtualboy_warioland/20240315_warioland.png",
+                     "description":"First time finishing this game."
+                  }
+               ]
+            },
+            {
+               "name":"Fastest Finish",
+               "description":"Complete the game as fast as possible",
+               "type":"fastest_time",
+               "records":[
+                  {
+                     "time":"03:24:05",
+                     "date":"2024-03-15",
+                     "screenshot":"./screenshots/virtualboy_warioland/20240315_warioland.png",
+                     "description":"First time finishing this game."
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Titanfall 2",
+         "difficulties":[
+            "Easy",
+            "Regular",
+            "Hard",
+            "Master"
+         ],
+         "record_types":[
+            {
+               "name":"Completed Game",
+               "description":"Finish the game at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Hard",
+                     "date":"2024-05-25",
+                     "screenshot":"./screenshots/titanfall_2/titanfall_2_hard_20240525.jpg"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Zelda: Ocarina of Time",
+         "difficulties":[
+            "Normal",
+            "Master Quest"
+         ],
+         "record_types":[
+            {
+               "name":"Completed Game",
+               "description":"Finish the game",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Normal",
+                     "date":"2024-08-04",
+                     "screenshot":"./screenshots/zelda_ocarina_of_time/zoot_completed_20240804.jpg",
+                     "description":"First time completing a Zelda game (apart from those for the CDi)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"The Talos Principle 2",
+         "record_types":[
+            {
+               "name":"Completed Game with 100%",
+               "description":"Finish the game solving all puzzles and collecting all stars",
+               "type":"completed",
+               "records":[
+                  {
+                     "date":"2024-09-30",
+                     "screenshot":"./screenshots/talos_principle_2/talos_principle_2_100_percent_20240930.jpg",
+                     "description":"Finished the whole game, though permitting myself to use Google once (to find the last star)"
+                  }
+               ]
+            },
+            {
+               "name": "Completed DLC: Orpheus Ascending",
+               "description": "Finish the Orpheus Ascending DLC with 100% completion",
+               "type": "completed",
+               "records": [
+                 {
+                   "date": "2025-07-13",
+                   "description": "100% completion of Orpheus Ascending",
+                   "screenshot": "./screenshots/talos_principle_2/orpheus_ascending_100_percent_20250713.jpg"
+                 }
+               ]
+             },
+             {
+               "name": "Completed DLC: Into the Abyss",
+               "description": "Finish the Into the Abyss DLC with 100% completion",
+               "type": "completed",
+               "records": [
+                 {
+                   "date": "2025-07-11",
+                   "description": "100% completion of Into the Abyss",
+                   "screenshot": "./screenshots/talos_principle_2/into_the_abyss_100_percent_20250711.jpg"
+                 }
+               ]
+             },
+             {
+               "name": "Completed DLC: Isle of the Blessed",
+               "description": "Finish the Isle of the Blessed DLC with 100% completion",
+               "type": "completed",
+               "records": [
+                 {
+                   "date": "2025-07-12",
+                   "description": "100% completion of Isle of the Blessed",
+                   "screenshot": "./screenshots/talos_principle_2/isle_of_the_blessed_100_percent_20250712.jpg"
+                 }
+               ]
+             }
+         ]
+      },
+      {
+         "name":"Batman: Arkham Shadow",
+         "difficulties":[
+            "Easy",
+            "Normal",
+            "Hard"
+         ],
+         "record_types":[
+            {
+               "name":"Completed Game",
+               "description":"Finish the game at a specific difficulty",
+               "type":"completed_at_difficulty",
+               "records":[
+                  {
+                     "difficulty":"Hard",
+                     "date":"2025-01-23",
+                     "screenshot":"./screenshots/batman_arkham_shadow/batman_as_completed_20250123.jpg"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "Metro: Awakening",
+         "difficulties": [
+            "Easy",
+            "Normal",
+            "Hard"
+         ],
+         "record_types": [
+            {
+               "name": "Completed Game",
+               "description": "Finish the game at a specific difficulty",
+               "type": "completed_at_difficulty",
+               "records": [
+                  {
+                     "difficulty": "Normal",
+                     "date": "2025-04-01",
+                     "screenshot": "./screenshots/metro_awakening/20250401_completed_normal.jpg",
+                     "description": "First play-through of a Metro game"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "World of Warcraft",
+         "difficulties": null,
+         "record_types": [
+            {
+               "name": "Level Reached",
+               "description": "Show off your characters at different levels",
+               "type": "high_score",
+               "records": [
+                  {
+                     "date": "2025-09-25",
+                     "description": "Reached Level 60 with my Dwarf Hunter \"Blunderbus\" (on my self-hosted server)",
+                     "screenshot": "screenshots\\world_of_warcraft\\WoWScrnShot_092525_220552.jpg",
+                     "score": 60.0
+                  }
+               ]
+            }
+         ]
+      }
+   ]
 }
