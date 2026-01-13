@@ -634,6 +634,24 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Jurassic Park (GB)",
+      "difficulties": null,
+      "record_types": [
+        {
+          "name": "Game Completion",
+          "description": "Finish the game",
+          "type": "completed",
+          "records": [
+            {
+              "date": "2026-01-13",
+              "description": "Finished the game, level 5 is still a pain, but overall a lot easier than I remember.",
+              "screenshot": null
+            }
+          ]
+        }
+      ]
     }
   ]
 }
