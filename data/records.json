@@ -652,6 +652,31 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Yoku's Island Express",
+      "difficulties": null,
+      "record_types": [
+        {
+          "name": "Complete X percent of the game",
+          "description": "Complete the game at a certain percentage",
+          "type": "high_score",
+          "records": [
+            {
+              "date": "2026-01-25",
+              "description": "Completed the game and stuck around to collect all secrets",
+              "screenshot": "screenshots\\yokus_island_express\\yoku_100_pct.jpg",
+              "score": 100.0
+            },
+            {
+              "date": "2026-01-25",
+              "description": "Completed game with our little one, she got a bit fed up collecting wickerlings at this point",
+              "screenshot": "screenshots\\yokus_island_express\\yoku_92_pct.jpg",
+              "score": 92.0
+            }
+          ]
+        }
+      ]
     }
   ]
 }
