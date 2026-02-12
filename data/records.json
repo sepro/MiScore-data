@@ -677,6 +677,24 @@
           ]
         }
       ]
+    },
+    {
+      "name": "KeyWe",
+      "difficulties": null,
+      "record_types": [
+        {
+          "name": "Complete game with all collectables",
+          "description": "Find all secret items and complete the game",
+          "type": "completed",
+          "records": [
+            {
+              "date": "2026-02-11",
+              "description": "Found the last collectable!",
+              "screenshot": "screenshots\\keywe\\20260211131015_1.jpg"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
