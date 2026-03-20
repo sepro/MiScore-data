@@ -655,7 +655,11 @@
     },
     {
       "name": "Yoku's Island Express",
-      "difficulties": null,
+      "difficulties": [
+        "Normal",
+        "Hard",
+        "Very Hard"
+      ],
       "record_types": [
         {
           "name": "Complete X percent of the game",
@@ -675,6 +679,19 @@
               "score": 92.0
             }
           ]
+        },
+        {
+          "name": "Complete X percent of the game in randomizer mode",
+          "description": "Complete the game at a certain percentage in randomizer mode at a specific difficulty",
+          "type": "complex",
+          "components": ["completed_at_difficulty", "high_score"],
+          "records": [            {
+              "date": "2026-03-12",
+              "description": "First attempt at randomizer mode, pretty interesting concept! I played on normal with seed 966827",
+              "screenshot": "screenshots\\yokus_island_express\\yoku_random_normal.jpg",
+              "difficulty": "Normal",
+              "score": 69.0
+            }]
         }
       ]
     },
