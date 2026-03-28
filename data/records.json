@@ -16,15 +16,15 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2022-10-18",
-              "description": null,
-              "screenshot": "screenshots\\doom_2016\\20221018_completed_nightmare.jpg",
+              "screenshot": "screenshots/doom_2016/20221018_completed_nightmare.jpg",
               "difficulty": "Nightmare"
             },
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2022-10-01",
-              "description": null,
-              "screenshot": "screenshots\\doom_2016\\20221001_completed_ultra_violence.jpg",
+              "screenshot": "screenshots/doom_2016/20221001_completed_ultra_violence.jpg",
               "difficulty": "Ultra-Violence"
             }
           ]
@@ -47,21 +47,21 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2024-07-16",
-              "description": null,
-              "screenshot": "screenshots\\doom_eternal\\20240716_completed_nightmare.jpg",
+              "screenshot": "screenshots/doom_eternal/20240716_completed_nightmare.jpg",
               "difficulty": "Nightmare"
             },
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2024-07-09",
-              "description": null,
-              "screenshot": "screenshots\\doom_eternal\\20240709_completed_ultra_violence.jpg",
+              "screenshot": "screenshots/doom_eternal/20240709_completed_ultra_violence.jpg",
               "difficulty": "Ultra-Violence"
             },
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2020-05-02",
-              "description": null,
-              "screenshot": "screenshots\\doom_eternal\\20200502_completed_hurt_me_plenty.jpg",
+              "screenshot": "screenshots/doom_eternal/20200502_completed_hurt_me_plenty.jpg",
               "difficulty": "Hurt Me Plenty"
             }
           ]
@@ -72,9 +72,9 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2021-03-26",
-              "description": null,
-              "screenshot": "screenshots\\doom_eternal\\20210326_completed_dlc_1_hurt_me_plenty.jpg",
+              "screenshot": "screenshots/doom_eternal/20210326_completed_dlc_1_hurt_me_plenty.jpg",
               "difficulty": "Hurt Me Plenty"
             }
           ]
@@ -85,9 +85,9 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2021-03-27",
-              "description": null,
-              "screenshot": "screenshots\\doom_eternal\\20210327_completed_dlc_2_hurt_me_plenty.jpg",
+              "screenshot": "screenshots/doom_eternal/20210327_completed_dlc_2_hurt_me_plenty.jpg",
               "difficulty": "Hurt Me Plenty"
             }
           ]
@@ -110,9 +110,8 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2022-08-04",
-              "description": null,
-              "screenshot": null,
               "difficulty": "Grandmaster"
             }
           ]
@@ -123,9 +122,9 @@
           "type": "high_score",
           "records": [
             {
+              "entry_type": "score",
               "date": "2022-08-04",
-              "description": null,
-              "screenshot": "screenshots\\gwent_rogue_mage\\20220804_score_time.png",
+              "screenshot": "screenshots/gwent_rogue_mage/20220804_score_time.png",
               "score": 25092.0
             }
           ]
@@ -136,9 +135,9 @@
           "type": "low_score",
           "records": [
             {
+              "entry_type": "score",
               "date": "2022-08-04",
-              "description": null,
-              "screenshot": "screenshots\\gwent_rogue_mage\\20220804_rank.png",
+              "screenshot": "screenshots/gwent_rogue_mage/20220804_rank.png",
               "score": 456.0
             }
           ]
@@ -149,9 +148,9 @@
           "type": "fastest_time",
           "records": [
             {
+              "entry_type": "time",
               "date": "2022-07-08",
-              "description": null,
-              "screenshot": "screenshots\\gwent_rogue_mage\\20220804_score_time.png",
+              "screenshot": "screenshots/gwent_rogue_mage/20220804_score_time.png",
               "time": "0:24:04"
             }
           ]
@@ -160,7 +159,6 @@
     },
     {
       "name": "Gwent",
-      "difficulties": null,
       "record_types": [
         {
           "name": "Highest fMMR",
@@ -168,9 +166,10 @@
           "type": "high_score",
           "records": [
             {
+              "entry_type": "score",
               "date": "2021-03-09",
               "description": "With Northern Realms",
-              "screenshot": "screenshots\\gwent\\20210309_fmmr.png",
+              "screenshot": "screenshots/gwent/20210309_fmmr.png",
               "score": 2511.0
             }
           ]
@@ -179,17 +178,15 @@
     },
     {
       "name": "It takes two",
-      "difficulties": null,
       "record_types": [
         {
           "name": "Completed Game",
-          "description": null,
           "type": "completed",
           "records": [
             {
+              "entry_type": "completed",
               "date": "2022-07-07",
-              "description": null,
-              "screenshot": "screenshots\\it_takes_two\\20220707_completed.jpg"
+              "screenshot": "screenshots/it_takes_two/20220707_completed.jpg"
             }
           ]
         }
@@ -197,17 +194,14 @@
     },
     {
       "name": "Portal (with RTX)",
-      "difficulties": null,
       "record_types": [
         {
           "name": "Completed Game",
-          "description": null,
           "type": "completed",
           "records": [
             {
-              "date": "2023-08-07",
-              "description": null,
-              "screenshot": null
+              "entry_type": "completed",
+              "date": "2023-08-07"
             }
           ]
         }
@@ -215,17 +209,14 @@
     },
     {
       "name": "Portal Prelude (with RTX)",
-      "difficulties": null,
       "record_types": [
         {
           "name": "Completed Game",
-          "description": null,
           "type": "completed",
           "records": [
             {
-              "date": "2023-08-09",
-              "description": null,
-              "screenshot": null
+              "entry_type": "completed",
+              "date": "2023-08-09"
             }
           ]
         }
@@ -233,17 +224,14 @@
     },
     {
       "name": "Portal Reloaded",
-      "difficulties": null,
       "record_types": [
         {
           "name": "Completed Game",
-          "description": null,
           "type": "completed",
           "records": [
             {
-              "date": "2023-02-17",
-              "description": null,
-              "screenshot": null
+              "entry_type": "completed",
+              "date": "2023-02-17"
             }
           ]
         }
@@ -251,23 +239,21 @@
     },
     {
       "name": "Wordle",
-      "difficulties": null,
       "record_types": [
         {
           "name": "Longest Streak",
-          "description": null,
           "type": "high_score",
           "records": [
             {
+              "entry_type": "score",
               "date": "2023-04-07",
-              "description": null,
-              "screenshot": "screenshots\\wordle\\wordle_20230407.png",
+              "screenshot": "screenshots/wordle/wordle_20230407.png",
               "score": 44.0
             },
             {
+              "entry_type": "score",
               "date": "2023-02-21",
-              "description": null,
-              "screenshot": "screenshots\\wordle\\wordle_20230221.png",
+              "screenshot": "screenshots/wordle/wordle_20230221.png",
               "score": 26.0
             }
           ]
@@ -289,9 +275,10 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2023-06-30",
               "description": "Rather thorough playthrough with every side quest discovered completed. Got the good ending.",
-              "screenshot": "screenshots\\witcher_3\\witcher_3_death_march_20230630.jpg",
+              "screenshot": "screenshots/witcher_3/witcher_3_death_march_20230630.jpg",
               "difficulty": "Death March"
             }
           ]
@@ -302,9 +289,9 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2023-09-26",
-              "description": null,
-              "screenshot": "screenshots\\witcher_3\\witcher_3_dlc_1_death_march_20230926.jpg",
+              "screenshot": "screenshots/witcher_3/witcher_3_dlc_1_death_march_20230926.jpg",
               "difficulty": "Death March"
             }
           ]
@@ -315,9 +302,9 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2023-07-15",
-              "description": null,
-              "screenshot": "screenshots\\witcher_3\\witcher_3_dlc_2_death_march_20230715.jpg",
+              "screenshot": "screenshots/witcher_3/witcher_3_dlc_2_death_march_20230715.jpg",
               "difficulty": "Death March"
             }
           ]
@@ -339,9 +326,10 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2024-01-26",
               "description": "Sandevistan Shotgun Build - lvl 60",
-              "screenshot": "screenshots\\cyberpunk2077\\20240126_completed_very_hard.jpg",
+              "screenshot": "screenshots/cyberpunk2077/20240126_completed_very_hard.jpg",
               "difficulty": "Very Hard"
             }
           ]
@@ -352,9 +340,9 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2023-09-26",
-              "description": null,
-              "screenshot": "screenshots\\cyberpunk2077\\20231209_completed_dlc_very_hard.jpg",
+              "screenshot": "screenshots/cyberpunk2077/20231209_completed_dlc_very_hard.jpg",
               "difficulty": "Very Hard"
             }
           ]
@@ -376,9 +364,10 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2024-03-02",
               "description": "First playthrough, as Slytheryn, with a focus on ancient magic and unforgivable curses.",
-              "screenshot": "screenshots\\hogwarts_legacy\\hogwarts_legacy_hard_20240302.jpg",
+              "screenshot": "screenshots/hogwarts_legacy/hogwarts_legacy_hard_20240302.jpg",
               "difficulty": "Hard"
             }
           ]
@@ -400,15 +389,15 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2024-03-03",
               "description": "With NoVR Launcher to play the game without a VR headset.",
-              "screenshot": null,
               "difficulty": "Normal"
             },
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2025-02-02",
               "description": "On Meta Quest 3S with USB Link, very impressive game!",
-              "screenshot": null,
               "difficulty": "Hard"
             }
           ]
@@ -417,7 +406,6 @@
     },
     {
       "name": "Virtual Boy Wario Land",
-      "difficulties": null,
       "record_types": [
         {
           "name": "Coins Collected",
@@ -425,9 +413,10 @@
           "type": "high_score",
           "records": [
             {
+              "entry_type": "score",
               "date": "2024-03-15",
               "description": "First time finishing this game.",
-              "screenshot": "screenshots\\virtualboy_warioland\\20240315_warioland.png",
+              "screenshot": "screenshots/virtualboy_warioland/20240315_warioland.png",
               "score": 4835.0
             }
           ]
@@ -438,9 +427,10 @@
           "type": "fastest_time",
           "records": [
             {
+              "entry_type": "time",
               "date": "2024-03-15",
               "description": "First time finishing this game.",
-              "screenshot": "screenshots\\virtualboy_warioland\\20240315_warioland.png",
+              "screenshot": "screenshots/virtualboy_warioland/20240315_warioland.png",
               "time": "3:24:05"
             }
           ]
@@ -462,9 +452,9 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2024-05-25",
-              "description": null,
-              "screenshot": "screenshots\\titanfall_2\\titanfall_2_hard_20240525.jpg",
+              "screenshot": "screenshots/titanfall_2/titanfall_2_hard_20240525.jpg",
               "difficulty": "Hard"
             }
           ]
@@ -484,9 +474,10 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2024-08-04",
               "description": "First time completing a Zelda game (apart from those for the CDi)",
-              "screenshot": "screenshots\\zelda_ocarina_of_time\\zoot_completed_20240804.jpg",
+              "screenshot": "screenshots/zelda_ocarina_of_time/zoot_completed_20240804.jpg",
               "difficulty": "Normal"
             }
           ]
@@ -495,7 +486,6 @@
     },
     {
       "name": "The Talos Principle 2",
-      "difficulties": null,
       "record_types": [
         {
           "name": "Completed Game with 100%",
@@ -503,9 +493,10 @@
           "type": "completed",
           "records": [
             {
+              "entry_type": "completed",
               "date": "2024-09-30",
               "description": "Finished the whole game, though permitting myself to use Google once (to find the last star)",
-              "screenshot": "screenshots\\talos_principle_2\\talos_principle_2_100_percent_20240930.jpg"
+              "screenshot": "screenshots/talos_principle_2/talos_principle_2_100_percent_20240930.jpg"
             }
           ]
         },
@@ -515,9 +506,10 @@
           "type": "completed",
           "records": [
             {
+              "entry_type": "completed",
               "date": "2025-07-13",
               "description": "100% completion of Orpheus Ascending",
-              "screenshot": "screenshots\\talos_principle_2\\orpheus_ascending_100_percent_20250713.jpg"
+              "screenshot": "screenshots/talos_principle_2/orpheus_ascending_100_percent_20250713.jpg"
             }
           ]
         },
@@ -527,9 +519,10 @@
           "type": "completed",
           "records": [
             {
+              "entry_type": "completed",
               "date": "2025-07-11",
               "description": "100% completion of Into the Abyss",
-              "screenshot": "screenshots\\talos_principle_2\\into_the_abyss_100_percent_20250711.jpg"
+              "screenshot": "screenshots/talos_principle_2/into_the_abyss_100_percent_20250711.jpg"
             }
           ]
         },
@@ -539,9 +532,10 @@
           "type": "completed",
           "records": [
             {
+              "entry_type": "completed",
               "date": "2025-07-12",
               "description": "100% completion of Isle of the Blessed",
-              "screenshot": "screenshots\\talos_principle_2\\isle_of_the_blessed_100_percent_20250712.jpg"
+              "screenshot": "screenshots/talos_principle_2/isle_of_the_blessed_100_percent_20250712.jpg"
             }
           ]
         }
@@ -561,9 +555,9 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2025-01-23",
-              "description": null,
-              "screenshot": "screenshots\\batman_arkham_shadow\\batman_as_completed_20250123.jpg",
+              "screenshot": "screenshots/batman_arkham_shadow/batman_as_completed_20250123.jpg",
               "difficulty": "Hard"
             }
           ]
@@ -584,9 +578,10 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2025-04-01",
               "description": "First play-through of a Metro game",
-              "screenshot": "screenshots\\metro_awakening\\20250401_completed_normal.jpg",
+              "screenshot": "screenshots/metro_awakening/20250401_completed_normal.jpg",
               "difficulty": "Normal"
             }
           ]
@@ -595,7 +590,6 @@
     },
     {
       "name": "World of Warcraft",
-      "difficulties": null,
       "record_types": [
         {
           "name": "Level Reached",
@@ -603,9 +597,10 @@
           "type": "high_score",
           "records": [
             {
+              "entry_type": "score",
               "date": "2025-09-25",
               "description": "Reached Level 60 with my Dwarf Hunter \"Blunderbus\" (on my self-hosted server)",
-              "screenshot": "screenshots\\world_of_warcraft\\WoWScrnShot_092525_220552.jpg",
+              "screenshot": "screenshots/world_of_warcraft/WoWScrnShot_092525_220552.jpg",
               "score": 60.0
             }
           ]
@@ -626,9 +621,9 @@
           "type": "completed_at_difficulty",
           "records": [
             {
+              "entry_type": "completed_at_difficulty",
               "date": "2025-11-20",
               "description": "First Playthrough",
-              "screenshot": null,
               "difficulty": "Normal"
             }
           ]
@@ -637,7 +632,6 @@
     },
     {
       "name": "Jurassic Park (GB)",
-      "difficulties": null,
       "record_types": [
         {
           "name": "Game Completion",
@@ -645,9 +639,9 @@
           "type": "completed",
           "records": [
             {
+              "entry_type": "completed",
               "date": "2026-01-13",
-              "description": "Finished the game, level 5 is still a pain, but overall a lot easier than I remember.",
-              "screenshot": null
+              "description": "Finished the game, level 5 is still a pain, but overall a lot easier than I remember."
             }
           ]
         }
@@ -667,15 +661,17 @@
           "type": "high_score",
           "records": [
             {
+              "entry_type": "score",
               "date": "2026-01-25",
               "description": "Completed the game and stuck around to collect all secrets",
-              "screenshot": "screenshots\\yokus_island_express\\yoku_100_pct.jpg",
+              "screenshot": "screenshots/yokus_island_express/yoku_100_pct.jpg",
               "score": 100.0
             },
             {
+              "entry_type": "score",
               "date": "2026-01-25",
               "description": "Completed game with our little one, she got a bit fed up collecting wickerlings at this point",
-              "screenshot": "screenshots\\yokus_island_express\\yoku_92_pct.jpg",
+              "screenshot": "screenshots/yokus_island_express/yoku_92_pct.jpg",
               "score": 92.0
             }
           ]
@@ -684,20 +680,25 @@
           "name": "Complete X percent of the game in randomizer mode",
           "description": "Complete the game at a certain percentage in randomizer mode at a specific difficulty",
           "type": "complex",
-          "components": ["completed_at_difficulty", "high_score"],
-          "records": [            {
+          "components": [
+            "completed_at_difficulty",
+            "high_score"
+          ],
+          "records": [
+            {
+              "entry_type": "complex",
               "date": "2026-03-12",
               "description": "First attempt at randomizer mode, pretty interesting concept! I played on normal with seed 966827",
-              "screenshot": "screenshots\\yokus_island_express\\yoku_random_normal.jpg",
+              "screenshot": "screenshots/yokus_island_express/yoku_random_normal.jpg",
               "difficulty": "Normal",
               "score": 69.0
-            }]
+            }
+          ]
         }
       ]
     },
     {
       "name": "KeyWe",
-      "difficulties": null,
       "record_types": [
         {
           "name": "Complete game with all collectables",
@@ -705,9 +706,34 @@
           "type": "completed",
           "records": [
             {
+              "entry_type": "completed",
               "date": "2026-02-11",
               "description": "Found the last collectable!",
-              "screenshot": "screenshots\\keywe\\20260211131015_1.jpg"
+              "screenshot": "screenshots/keywe/20260211131015_1.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Doom VFR",
+      "difficulties": [
+        "I'm Too Young To Die",
+        "Hurt Me Plenty",
+        "Ultra-Violence",
+        "Nightmare",
+        "Ultra-Nightmare"
+      ],
+      "record_types": [
+        {
+          "name": "Complete the game at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "entry_type": "completed_at_difficulty",
+              "date": "2026-03-28",
+              "description": "First playthrough at Ultra-Violence, pretty fun game in the Doom franchise! Though the controls on the Meta Quest 3S are suboptimal and I would recommend playing with a wireless setup instead of the link cable (I got tangle a fair number of times).",
+              "difficulty": "Ultra-Violence"
             }
           ]
         }
