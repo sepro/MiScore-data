@@ -692,6 +692,14 @@
               "screenshot": "screenshots/yokus_island_express/yoku_random_normal.jpg",
               "difficulty": "Normal",
               "score": 69.0
+            },
+            {
+              "entry_type": "complex",
+              "date": "2026-04-28",
+              "description": "Second randomized run, lots of items hidden behind scarabs, but not too difficult to finish",
+              "screenshot": "screenshots/yokus_island_express/yoku_random_normal_2.jpg",
+              "difficulty": "Normal",
+              "score": 69.0
             }
           ]
         }
