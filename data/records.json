@@ -754,6 +754,39 @@
           ]
         }
       ]
+    },
+    {
+      "name": "LEGO Harry Potter Collection",
+      "record_types": [
+        {
+          "name": "Complete Years 1-4 with X percent of the secrets found",
+          "description": "Complete Years 1-4 and find as many collectables and secrets as possible",
+          "type": "high_score",
+          "records": [
+            {
+              "entry_type": "score",
+              "date": "2026-03-14",
+              "description": "First playthrough, focussed on the story without looking too long for secrets.",
+              "screenshot": "screenshots/lego_harry_potter/years1-4_20260314.jpg",
+              "score": 30.5
+            }
+          ]
+        },
+        {
+          "name": "Complete Years 5-7 with X percent of the secrets found",
+          "description": "Complete Years 5-7 and find as many collectables and secrets as possible",
+          "type": "high_score",
+          "records": [
+            {
+              "entry_type": "score",
+              "date": "2026-05-02",
+              "description": "First playthrough, didn't look much for secrets, just enjoyed the game and story with out little one.",
+              "screenshot": "screenshots/lego_harry_potter/years5-7_20260502.jpg",
+              "score": 30.2
+            }
+          ]
+        }
+      ]
     }
   ]
 }
