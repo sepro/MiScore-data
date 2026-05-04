@@ -700,6 +700,14 @@
               "screenshot": "screenshots/yokus_island_express/yoku_random_normal_2.jpg",
               "difficulty": "Normal",
               "score": 69.0
+            },
+            {
+              "entry_type": "complex",
+              "date": "2026-05-04",
+              "description": "Seemed like an easy run until I realized I needed the horn to complete which turned out to be very well hidden in this seed (174431)",
+              "screenshot": "screenshots/yokus_island_express/yoku_random_hard.jpg",
+              "difficulty": "Hard",
+              "score": 84.0
             }
           ]
         }
