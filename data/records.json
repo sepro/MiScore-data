@@ -787,6 +787,35 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Metroid: Zero Mission",
+      "difficulties": [
+        "Easy",
+        "Normal",
+        "Hard"
+      ],
+      "record_types": [
+        {
+          "name": "Finish the game at a specific difficulty, with a specific time and percentage completed.",
+          "type": "complex",
+          "components": [
+            "completed_at_difficulty",
+            "fastest_time",
+            "high_score"
+          ],
+          "records": [
+            {
+              "entry_type": "complex",
+              "date": "2026-05-22",
+              "description": "First playthrough of a Metroid game (GBA rom on 2DSXL using vitual console).",
+              "difficulty": "Normal",
+              "time": "5:22:25",
+              "score": 61.0
+            }
+          ]
+        }
+      ]
     }
   ]
 }
