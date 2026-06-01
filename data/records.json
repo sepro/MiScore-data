@@ -816,6 +816,29 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Alan Wake (Remastered)",
+      "difficulties": [
+        "Easy",
+        "Normal",
+        "Nightmare"
+      ],
+      "record_types": [
+        {
+          "name": "Finish the main story",
+          "description": "Complete the game at a specific difficulty",
+          "type": "completed_at_difficulty",
+          "records": [
+            {
+              "entry_type": "completed_at_difficulty",
+              "date": "2026-06-01",
+              "description": "Finished the game at Normal difficulty",
+              "difficulty": "Normal"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
