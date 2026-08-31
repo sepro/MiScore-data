@@ -839,6 +839,25 @@
           ]
         }
       ]
+    },
+    {
+      "name": "LEGO The Hobbit",
+      "record_types": [
+        {
+          "name": "Complete game with %",
+          "description": "Complete the game with up to 100% of things done",
+          "type": "high_score",
+          "records": [
+            {
+              "entry_type": "score",
+              "date": "2026-08-31",
+              "description": "Completed the game for the first time with our little one. Somewhat disappointed to find out it ends where the second movie does and the last part was never made.",
+              "screenshot": "screenshots/lego_the_hobbit/completed_20260831.jpg",
+              "score": 22.7
+            }
+          ]
+        }
+      ]
     }
   ]
 }
