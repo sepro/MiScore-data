@@ -858,6 +858,24 @@
           ]
         }
       ]
+    },
+    {
+      "name": "LEGO The Lord of the Rings",
+      "record_types": [
+        {
+          "name": "Completed with X %",
+          "description": "Complete the game finding as many secrets as possible",
+          "type": "high_score",
+          "records": [
+            {
+              "entry_type": "score",
+              "date": "2026-11-14",
+              "description": "First playthrough with our little one",
+              "score": 22.9
+            }
+          ]
+        }
+      ]
     }
   ]
 }
